@@ -1,5 +1,5 @@
-# Séminaires d'informatique \
-(Industrial Seminars in Computer Science) \
+# Séminaires d'informatique \\
+(Industrial Seminars in Computer Science) \\
 2021-2022, UMONS
 
 - [Page Moodle](https://moodle.umons.ac.be/course/view.php?id=455)
