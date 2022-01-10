@@ -21,7 +21,7 @@
 	* *?*, [?](?)
 
 
-4. Mercredi 15 Mars 2022 (?)
+4. Mercredi 16 Mars 2022 (?)
 
 	* *?*, [?](?)
 
@@ -30,7 +30,7 @@
 
 	* *?*, [?](?)
 
-6.	Mercredi 30 Mars 2022 (?)
+6. Mercredi 30 Mars 2022 (?)
 
 	* *?*, [?](?)
 
@@ -45,7 +45,7 @@
 
 	* *?*, [?](?)
 
-9. 	Mercredi 4 Mai 2021 (?)
+9. Mercredi 4 Mai 2021 (?)
 
   * Examen
 
