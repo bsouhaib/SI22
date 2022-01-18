@@ -13,7 +13,7 @@
 
 2. Mercredi 2 Mars 2022 (?)
 
-	* *?*, [?](?)
+	* *?*, [Alexis Gil](https://www.linkedin.com/in/alexisgilgonzales/)
 
 
 3. Mercredi 9 Mars 2022 (?)
