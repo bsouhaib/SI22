@@ -18,7 +18,7 @@
 
 3. Mercredi 9 Mars 2022 (?)
 
-	* *?*, [?](?)
+	* *?*, [Fabrice Lété](https://www.linkedin.com/in/letef/)
 
 
 4. Mercredi 16 Mars 2022 (?)
