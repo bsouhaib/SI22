@@ -15,7 +15,6 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 	* *Spatial analytics : quel potentiel pour les données géographiques ?*, [Dr. Vandy Berten](https://www.smalsresearch.be/author/berten/), SMALS 
 
 
-
 2. Mercredi 2 Mars 2022 
 
 	* *Les Systèmes de Gestion de Bases de Données (SGBD) en 2022: actualité et tendances*, [Alexis Gil](https://www.linkedin.com/in/alexisgilgonzales/)
@@ -26,12 +25,12 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 	* *Data Oriented Design et Jeux Vidéo*, [Fabrice Lété](https://www.linkedin.com/in/letef/)
 
 
-4. Mercredi 16 Mars 2022 (?)
+4. Mercredi 16 Mars 2022
 
 	* *?*, [?](?)
 
 
-5. Mercredi 23 Mars 2022 (?)
+5. Mercredi 23 Mars 2022
 
 	* *?*, [?](?)
 
