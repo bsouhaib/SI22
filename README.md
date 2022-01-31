@@ -6,22 +6,22 @@
 
 # Local
 
-Les séminaires auront lieu dans la salle Mirzakhani au première étage du bâtiment [De Vinci](https://goo.gl/maps/y83a97kLffiojN4o7).
+Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtiment [De Vinci](https://goo.gl/maps/y83a97kLffiojN4o7)).
 
 # Liste de séminaires
 
-1. Mercredi 23 Février 2022 (?)
+1. Mercredi 23 Février 2022 
 
 	* *GIS Analytics*, [Dr. Vandy Berten](https://www.smalsresearch.be/author/berten/), SMALS 
 
 
 
-2. Mercredi 2 Mars 2022 (?)
+2. Mercredi 2 Mars 2022 
 
 	* *Les Systèmes de Gestion de Bases de Données (SGBD) en 2022: actualité et tendances*, [Alexis Gil](https://www.linkedin.com/in/alexisgilgonzales/)
 
 
-3. Mercredi 9 Mars 2022 (?)
+3. Mercredi 9 Mars 2022 
 
 	* *Data Oriented Design et Jeux Vidéo*, [Fabrice Lété](https://www.linkedin.com/in/letef/)
 
@@ -35,26 +35,26 @@ Les séminaires auront lieu dans la salle Mirzakhani au première étage du bât
 
 	* *?*, [?](?)
 
-6. Mercredi 30 Mars 2022 (?)
+6. Mercredi 30 Mars 2022 
 
 	* *?*, [?](?)
 
 
 **Vacances de printemps**
 
-7. Mercredi 20 Avril 2022 (?)
+7. Mercredi 20 Avril 2022 
 
 	* *?*, [?](?)
 
-8. Mercredi 27 Avril 2022 (?)
+8. Mercredi 27 Avril 2022 
 
 	* *?*, [?](?)
 
-9. Mercredi 4 Mai 2021 (?)
+9. Mercredi 4 Mai 2021 
 
   * Examen
 
-10. Mercredi 11 Mai 2021 (?)
+10. Mercredi 11 Mai 2021 
 
   * Examen
 
