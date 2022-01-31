@@ -6,7 +6,7 @@
 
 # Local
 
-Les séminaires auront lieu au batiment [De Vinci](https://goo.gl/maps/y83a97kLffiojN4o7) dans la salle Mirzakhani.
+Les séminaires auront lieu au bâtiment [De Vinci](https://goo.gl/maps/y83a97kLffiojN4o7) dans la salle Mirzakhani.
 
 # Liste de séminaires
 
