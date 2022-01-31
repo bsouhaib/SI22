@@ -22,7 +22,7 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 
 3. Mercredi 9 Mars 2022 
 
-	* *Data Oriented Design et Jeux Vidéo*, [Fabrice Lété](https://www.linkedin.com/in/letef/)
+	* *Data Oriented Design et Jeux Vidéo*, [Fabrice Lété](https://www.linkedin.com/in/letef/), Unity Technologies
 
 
 4. Mercredi 16 Mars 2022
