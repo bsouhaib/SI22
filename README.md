@@ -17,7 +17,7 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 
 2. Mercredi 2 Mars 2022 
 
-	* *Les Systèmes de Gestion de Bases de Données (SGBD) en 2022: actualité et tendances*, [Alexis Gil](https://www.linkedin.com/in/alexisgilgonzales/)
+	* *Les Systèmes de Gestion de Bases de Données (SGBD) en 2022: actualité et tendances*, [Alexis Gil](https://www.linkedin.com/in/alexisgilgonzales/), Aleph Technologies
 
 
 3. Mercredi 9 Mars 2022 
