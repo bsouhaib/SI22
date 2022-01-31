@@ -4,6 +4,10 @@
 
 - [Page Moodle](https://moodle.umons.ac.be/course/view.php?id=455)
 
+# Local
+
+Les séminaires auront lieu au batiment [De Vinci](https://goo.gl/maps/y83a97kLffiojN4o7) dans la salle Mirzakhani.
+
 # Liste de séminaires
 
 1. Mercredi 23 Février 2022 (?)
