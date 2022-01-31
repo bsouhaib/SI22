@@ -8,7 +8,7 @@
 
 1. Mercredi 23 Février 2022 (?)
 
-	* * *GIS Analytics*, [Dr. Vandy Berten](https://www.smalsresearch.be/author/berten/), SMALS 
+	* *GIS Analytics*, [Dr. Vandy Berten](https://www.smalsresearch.be/author/berten/), SMALS 
 
 
 
