@@ -66,7 +66,7 @@ Après avoir assisté aux différents séminaires, les étudiants devront choisi
 * Les présentations auront lieu les **4 et 11** mai 2022. Ces deux dernières séances (**obligatoires pour tous les étudiants**) doivent être considérées comme des mini-séminaires donnés par les étudiants aux autres étudiants. 
 
 
-Les étudiants seront évalués par rapport à leur capacité à **analyser et présenter** de nouveaux outils ou technologies dans le domaine de l'informatique en entreprise. Plus précisément, l'évaluation sera basée sur les éléments suivants:
+Les étudiants seront évalués par rapport à leur capacité à **analyser et présenter** de nouveaux outils ou technologies dans le domaine de l'informatique en entreprise. Plus précisément, l'évaluation sera basée sur les critères suivants :
 
 * **Le sujet traité (pertinent, émergent, en rapport avec les huit séminaires, etc.)**
 * **Les slides (polices et couleurs appropriées, pas trop encombrées, figures, lisibilité, etc.)**
