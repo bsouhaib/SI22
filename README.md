@@ -63,7 +63,7 @@ Après avoir assisté aux différents séminaires, les étudiants devront choisi
 
 * Cette présentation sera effectuée par groupe de **trois étudiants** pendant **15 minutes**. Quelques minutes additionnelles seront disponibles pour poser des questions.
 * Les étudiants ne pourront utiliser qu’un **maximum de 10 slides**, et chaque étudiant devra prendre la parole pour 5 minutes.
-* Les présentations auront lieu les **5 et 12** mai 2021. Ces deux dernières séances (**obligatoires pour tous les étudiants**) doivent être considérées comme des mini-séminaires donnés par les étudiants aux autres étudiants. 
+* Les présentations auront lieu les **4 et 11** mai 2022. Ces deux dernières séances (**obligatoires pour tous les étudiants**) doivent être considérées comme des mini-séminaires donnés par les étudiants aux autres étudiants. 
 
 
 Les étudiants seront évalués par rapport à leur capacité à **analyser et présenter** de nouveaux outils ou technologies dans le domaine de l'informatique en entreprise. Plus précisément, l'évaluation sera basée sur les éléments suivants:
