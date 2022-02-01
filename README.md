@@ -49,11 +49,11 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 
 	* *?*, [?](?)
 
-9. Mercredi 4 Mai 2021 
+9. Mercredi 4 Mai 20212
 
   * Examen
 
-10. Mercredi 11 Mai 2021 
+10. Mercredi 11 Mai 2022 
 
   * Examen
 
