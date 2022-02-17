@@ -25,7 +25,7 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 	* *Data Oriented Design et Jeux Vidéo*, [Fabrice Lété](https://www.linkedin.com/in/letef/), Unity Technologies
 
 
-4. Mercredi 16 Mars 2022 (Vésale)
+4. Mercredi 16 Mars 2022 (**Vésale**)
 
 	* *Sécurité offensive : techniques d’attaques*, [Emilien Peretti](https://www.linkedin.com/in/emilienperetti/?originalSubdomain=be), Digital DTechT
 
