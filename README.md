@@ -12,7 +12,7 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 
 1. Mercredi 23 Février 2022 
 
-	* *Spatial analytics : quel potentiel pour les données géographiques ?*, [Dr. Vandy Berten](https://www.smalsresearch.be/author/berten/), SMALS 
+	* *Spatial analytics : quel potentiel pour les données géographiques ?*, [Dr. Vandy Berten](https://www.smalsresearch.be/author/berten/), SMALS [[slides (PDF)](slides/spatial_analytics_berten.pdf)]
 
 
 2. Mercredi 2 Mars 2022 
