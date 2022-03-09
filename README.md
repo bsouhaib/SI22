@@ -36,7 +36,7 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 
 6. Mercredi 30 Mars 2022 
 
-	* *?*, [?](?)
+	* *?*, [?](?), Luc Golvers
 
 
 **Vacances de printemps**
