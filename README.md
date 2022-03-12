@@ -43,7 +43,7 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 
 7. Mercredi 20 Avril 2022 
 
-	* *?*, [?](?)
+	* *?*, [?](?), Antony Lesuisse (Technical Director, Odoo)
 
 8. Mercredi 27 Avril 2022 
 
