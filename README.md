@@ -32,9 +32,9 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 
 5. Mercredi 23 Mars 2022
 
-	* *?*, [?](?), Akabi
+	* *CLOUD SOLUTION ARCHITECTURE: La valeur métier en premier*, [Michaël Lacroix](https://www.linkedin.com/in/michael-lacroix-0428298/) et [Simon Olbregts](https://www.linkedin.com/in/simon-olbregts-94977495/), Akabi
 
-6. Mercredi 30 Mars 2022 
+6. Mercredi 30 Mars 2022 (Virtual seminar, Teams)
 
 	* *?*, [?](?), Luc Golvers
 
@@ -47,7 +47,7 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 
 8. Mercredi 27 Avril 2022 
 
-	* *?*, [?](?)
+	* *L'industrialisation des déploiements grâce au devops*, [Sébastien Sirtoli](https://www.linkedin.com/in/s%C3%A9bastien-sirtoli-85528a91/?originalSubdomain=be) 
 
 9. Mercredi 4 Mai 20212
 
