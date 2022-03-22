@@ -27,7 +27,7 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 
 4. Mercredi 16 Mars 2022 (🔴 Changement de salle : Salle [Vésale 020](./map_nimy.pdf) 🔴)
 
-	* *Sécurité offensive : techniques d’attaques*, [Emilien Peretti](https://www.linkedin.com/in/emilienperetti/?originalSubdomain=be), Digital DTechT
+	* *Sécurité offensive : techniques d’attaques*, [Emilien Peretti](https://www.linkedin.com/in/emilienperetti/?originalSubdomain=be), Digital DTechT [[slides indisponibles]
 
 
 5. Mercredi 23 Mars 2022
