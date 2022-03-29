@@ -34,9 +34,10 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 
 	* *CLOUD SOLUTION ARCHITECTURE: La valeur métier en premier*, [Michaël Lacroix](https://www.linkedin.com/in/michael-lacroix-0428298/) et [Simon Olbregts](https://www.linkedin.com/in/simon-olbregts-94977495/), Akabi
 
-6. Mercredi 30 Mars 2022 (Virtual seminar, Teams)
+6. Mercredi 30 Mars 2022 (🔴 Virtual seminar, Teams 🔴)
 
-	* *?*, [?](?), Luc Golvers
+	* *Le métier passionnant d’expert judiciaire en informatique*, [Luc Golvers](https://www.cepani.be/golvers-luc/), 
+
 
 
 **Vacances de printemps**
