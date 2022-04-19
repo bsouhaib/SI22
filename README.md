@@ -42,11 +42,11 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 
 **Vacances de printemps**
 
-7. Mercredi 20 Avril 2022 
+7. Mercredi 20 Avril 2022 (🔴 Virtual seminar, Teams 🔴)
 
 	* *?*, [?](?), Antony Lesuisse (Technical Director, Odoo)
 
-8. Mercredi 27 Avril 2022 
+8. Mercredi 27 Avril 2022 (🔴 Virtual seminar, Teams 🔴)
 
 	* *L'industrialisation des déploiements grâce au devops*, [Sébastien Sirtoli](https://www.linkedin.com/in/s%C3%A9bastien-sirtoli-85528a91/?originalSubdomain=be) 
 
