@@ -44,7 +44,7 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 
 7. Mercredi 20 Avril 2022 (🔴 Virtual seminar, Teams 🔴)
 
-	* *?*, [?](?), Antony Lesuisse (Technical Director, Odoo)
+	* *How to scale an open source company from 10 to 2000 employees*, [Antony Lesuisse (Technical Director, Odoo)](https://www.linkedin.com/in/antony-lesuisse-91479924), 
 
 8. Mercredi 27 Avril 2022 (🔴 Virtual seminar, Teams 🔴)
 
