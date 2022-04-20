@@ -25,7 +25,7 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 	* *Data Oriented Design et Jeux Vidéo*, [Fabrice Lété](https://www.linkedin.com/in/letef/), Unity Technologies [[slides (PDF)](slides/unity.pdf)]
 
 
-4. Mercredi 16 Mars 2022 (🔴 Changement de salle : Salle [Vésale 020](./map_nimy.pdf) 🔴)
+4. Mercredi 16 Mars 2022 (Changement de salle : Salle [Vésale 020](./map_nimy.pdf))
 
 	* *Sécurité offensive : techniques d’attaques*, [Emilien Peretti](https://www.linkedin.com/in/emilienperetti/?originalSubdomain=be), Digital DTechT [[slides indisponibles]]
 
@@ -34,7 +34,7 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 
 	* *CLOUD SOLUTION ARCHITECTURE: La valeur métier en premier*, [Michaël Lacroix](https://www.linkedin.com/in/michael-lacroix-0428298/) et [Simon Olbregts](https://www.linkedin.com/in/simon-olbregts-94977495/), Akabi
 
-6. Mercredi 30 Mars 2022 (🔴 Virtual seminar, Teams 🔴)
+6. Mercredi 30 Mars 2022 (Virtual seminar, Teams)
 
 	* *Le métier passionnant d’expert judiciaire en informatique*, [Luc Golvers](https://www.cepani.be/golvers-luc/), 
 
@@ -42,7 +42,7 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 
 **Vacances de printemps**
 
-7. Mercredi 20 Avril 2022 (🔴 Virtual seminar, Teams 🔴)
+7. Mercredi 20 Avril 2022 (Virtual seminar, Teams)
 
 	* *How to scale an open source company from 10 to 2000 employees*, [Antony Lesuisse (Technical Director, Odoo)](https://www.linkedin.com/in/antony-lesuisse-91479924), 
 
